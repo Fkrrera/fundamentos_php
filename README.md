@@ -1,4 +1,4 @@
-FUNDAMENTOS PHO
+#FUNDAMENTOS PHP
 
-DESCRIPCION:
+##DESCRIPCION:
 es un texto acompañado de una imagen. 
